@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Editor and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
